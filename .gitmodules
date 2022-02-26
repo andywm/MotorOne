@@ -1,0 +1,12 @@
+[submodule "Code"]
+	path = Code
+	url = https://github.com/andywm/GateESC
+[submodule "Encoder"]
+	path = Encoder
+	url = https://github.com/andywm/ESCSenseBoard
+[submodule "Motor"]
+	path = Motor
+	url = https://github.com/andywm/MotorOneDesign
+[submodule "Switcher"]
+	path = Switcher
+	url = https://github.com/andywm/escswitcher
